@@ -1,4 +1,4 @@
-Image Utility - Homework 1
+Image Utility
 ==========================
 
 Description
